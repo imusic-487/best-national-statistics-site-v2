@@ -1,6 +1,6 @@
 # Japan in Numbers
 
-[![competition](https://make.fun/badge/best-national-statistics-site-20261126-0539/competition.svg)](https://make.fun/c/best-national-statistics-site-20261126-0539)
+[![competition](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/c/best-national-statistics-site-20261126-0539)
 [![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/imusic-487/best-national-statistics-site-v2/rank.svg)](https://make.fun/c/best-national-statistics-site-20261126-0539)
 [![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/imusic-487/best-national-statistics-site-v2/reward.svg)](https://make.fun/c/best-national-statistics-site-20261126-0539)
 
